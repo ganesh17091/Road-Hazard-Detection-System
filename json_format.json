@@ -1,0 +1,10 @@
+{
+  "vehicle_id": "CAR_01",
+  "gps": {"lat": 17.2567, "lon": 74.1812},
+  "timestamp": 1732523456.12,
+  "num_detections": 2,
+  "objects": [
+    {"object_type": "car", "size": 60000.0},
+    {"object_type": "person", "size": 9000.0}
+  ]
+}
